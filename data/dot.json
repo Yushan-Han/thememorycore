@@ -1,0 +1,542 @@
+{
+  "dot1-1": {
+    "title": "数据录入员",
+    "exposure": "82%",
+    "risk": "High",
+    "complementarity": "Low"
+  },
+  "dot1-2": {
+    "title": "客服代表",
+    "exposure": "78%",
+    "risk": "High",
+    "complementarity": "Medium"
+  },
+  "dot1-3": {
+    "title": "档案管理员",
+    "exposure": "75%",
+    "risk": "High",
+    "complementarity": "Low"
+  },
+  "dot1-4": {
+    "title": "会计文员",
+    "exposure": "70%",
+    "risk": "High",
+    "complementarity": "Medium"
+  },
+  "dot1-5": {
+    "title": "物流调度员",
+    "exposure": "68%",
+    "risk": "Medium-High",
+    "complementarity": "Medium"
+  },
+  "dot1-6": {
+    "title": "保险理赔员",
+    "exposure": "65%",
+    "risk": "Medium-High",
+    "complementarity": "Medium"
+  },
+  "dot1-7": {
+    "title": "行政助理",
+    "exposure": "63%",
+    "risk": "Medium-High",
+    "complementarity": "Medium"
+  },
+  "dot1-8": {
+    "title": "银行柜员",
+    "exposure": "60%",
+    "risk": "Medium",
+    "complementarity": "Medium"
+  },
+  "dot1-9": {
+    "title": "人力资源专员",
+    "exposure": "58%",
+    "risk": "Medium",
+    "complementarity": "Medium-High"
+  },
+  "dot1-10": {
+    "title": "市场营销专员",
+    "exposure": "55%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot1-11": {
+    "title": "平面设计师",
+    "exposure": "50%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot1-12": {
+    "title": "网页开发人员",
+    "exposure": "45%",
+    "risk": "Medium-Low",
+    "complementarity": "High"
+  },
+  "dot1-13": {
+    "title": "软件测试工程师",
+    "exposure": "40%",
+    "risk": "Medium-Low",
+    "complementarity": "High"
+  },
+  "dot1-14": {
+    "title": "医生",
+    "exposure": "35%",
+    "risk": "Low",
+    "complementarity": "Very High"
+  },
+  "dot1-15": {
+    "title": "教师",
+    "exposure": "30%",
+    "risk": "Low",
+    "complementarity": "Very High"
+  },
+  "dot1-16": {
+    "title": "心理咨询师",
+    "exposure": "25%",
+    "risk": "Low",
+    "complementarity": "Very High"
+  },
+  "dot1-17": {
+    "title": "创意总监",
+    "exposure": "20%",
+    "risk": "Low",
+    "complementarity": "Very High"
+  },
+  "dot1-18": {
+    "title": "首席执行官",
+    "exposure": "15%",
+    "risk": "Very Low",
+    "complementarity": "Very High"
+  },
+  "dot2-1": {
+    "title": "自动驾驶工程师",
+    "exposure": "90%",
+    "risk": "High",
+    "complementarity": "Medium"
+  },
+  "dot2-2": {
+    "title": "算法工程师",
+    "exposure": "88%",
+    "risk": "High",
+    "complementarity": "Medium"
+  },
+  "dot2-3": {
+    "title": "自然语言处理专家",
+    "exposure": "85%",
+    "risk": "High",
+    "complementarity": "Medium"
+  },
+  "dot2-4": {
+    "title": "计算机视觉工程师",
+    "exposure": "82%",
+    "risk": "High",
+    "complementarity": "Medium"
+  },
+  "dot2-5": {
+    "title": "机器人工程师",
+    "exposure": "80%",
+    "risk": "High",
+    "complementarity": "Medium"
+  },
+  "dot2-6": {
+    "title": "数据科学家",
+    "exposure": "78%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot2-7": {
+    "title": "机器学习工程师",
+    "exposure": "75%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot2-8": {
+    "title": "网络安全专家",
+    "exposure": "70%",
+    "risk": "Medium-High",
+    "complementarity": "High"
+  },
+  "dot2-9": {
+    "title": "云架构师",
+    "exposure": "68%",
+    "risk": "Medium-High",
+    "complementarity": "High"
+  },
+  "dot2-10": {
+    "title": "全栈开发人员",
+    "exposure": "65%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot2-11": {
+    "title": "移动应用开发人员",
+    "exposure": "63%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot2-12": {
+    "title": "DevOps工程师",
+    "exposure": "60%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot2-13": {
+    "title": "UI/UX设计师",
+    "exposure": "55%",
+    "risk": "Medium",
+    "complementarity": "Very High"
+  },
+  "dot2-14": {
+    "title": "产品经理",
+    "exposure": "50%",
+    "risk": "Medium-Low",
+    "complementarity": "Very High"
+  },
+  "dot2-15": {
+    "title": "销售代表",
+    "exposure": "45%",
+    "risk": "Medium-Low",
+    "complementarity": "High"
+  },
+  "dot2-16": {
+    "title": "项目经理",
+    "exposure": "40%",
+    "risk": "Low",
+    "complementarity": "Very High"
+  },
+  "dot2-17": {
+    "title": "培训师",
+    "exposure": "35%",
+    "risk": "Low",
+    "complementarity": "Very High"
+  },
+  "dot2-18": {
+    "title": "法律顾问",
+    "exposure": "30%",
+    "risk": "Low",
+    "complementarity": "Very High"
+  },
+  "dot3-1": {
+    "title": "AI伦理学家",
+    "exposure": "95%",
+    "risk": "High",
+    "complementarity": "Very High"
+  },
+  "dot3-2": {
+    "title": "量子计算研究员",
+    "exposure": "92%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot3-3": {
+    "title": "脑机接口工程师",
+    "exposure": "90%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot3-4": {
+    "title": "生物信息学家",
+    "exposure": "88%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot3-5": {
+    "title": "环境数据科学家",
+    "exposure": "85%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot3-6": {
+    "title": "金融科技专家",
+    "exposure": "82%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot3-7": {
+    "title": "元宇宙架构师",
+    "exposure": "80%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot3-8": {
+    "title": "区块链工程师",
+    "exposure": "78%",
+    "risk": "High",
+    "complementarity": "Medium"
+  },
+  "dot3-9": {
+    "title": "可持续发展顾问",
+    "exposure": "75%",
+    "risk": "Medium-High",
+    "complementarity": "Very High"
+  },
+  "dot3-10": {
+    "title": "数字营销专家",
+    "exposure": "70%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot3-11": {
+    "title": "内容创作者",
+    "exposure": "65%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot3-12": {
+    "title": "电子商务经理",
+    "exposure": "63%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot3-13": {
+    "title": "大数据分析师",
+    "exposure": "60%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot3-14": {
+    "title": "物联网工程师",
+    "exposure": "58%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot3-15": {
+    "title": "游戏开发者",
+    "exposure": "55%",
+    "risk": "Medium-Low",
+    "complementarity": "High"
+  },
+  "dot3-16": {
+    "title": "虚拟现实设计师",
+    "exposure": "50%",
+    "risk": "Medium-Low",
+    "complementarity": "High"
+  },
+  "dot3-17": {
+    "title": "数字人文研究员",
+    "exposure": "45%",
+    "risk": "Low",
+    "complementarity": "Very High"
+  },
+  "dot3-18": {
+    "title": "健康数据分析师",
+    "exposure": "40%",
+    "risk": "Low",
+    "complementarity": "Very High"
+  },
+  "dot4-1": {
+    "title": "太空工程师",
+    "exposure": "95%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot4-2": {
+    "title": "纳米技术专家",
+    "exposure": "92%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot4-3": {
+    "title": "可再生能源工程师",
+    "exposure": "90%",
+    "risk": "High",
+    "complementarity": "Very High"
+  },
+  "dot4-4": {
+    "title": "基因编辑专家",
+    "exposure": "88%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot4-5": {
+    "title": "神经科学家",
+    "exposure": "85%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot4-6": {
+    "title": "合成生物学工程师",
+    "exposure": "82%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot4-7": {
+    "title": "气候模型专家",
+    "exposure": "80%",
+    "risk": "High",
+    "complementarity": "Very High"
+  },
+  "dot4-8": {
+    "title": "智能城市规划师",
+    "exposure": "78%",
+    "risk": "High",
+    "complementarity": "Very High"
+  },
+  "dot4-9": {
+    "title": "3D打印工程师",
+    "exposure": "75%",
+    "risk": "Medium-High",
+    "complementarity": "High"
+  },
+  "dot4-10": {
+    "title": "增强现实开发者",
+    "exposure": "72%",
+    "risk": "Medium-High",
+    "complementarity": "High"
+  },
+  "dot4-11": {
+    "title": "农业科技专家",
+    "exposure": "70%",
+    "risk": "Medium",
+    "complementarity": "Very High"
+  },
+  "dot4-12": {
+    "title": "精准医疗专家",
+    "exposure": "68%",
+    "risk": "Medium",
+    "complementarity": "Very High"
+  },
+  "dot4-13": {
+    "title": "数字孪生工程师",
+    "exposure": "65%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot4-14": {
+    "title": "机器人操作员",
+    "exposure": "63%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot4-15": {
+    "title": "知识管理专家",
+    "exposure": "60%",
+    "risk": "Medium-Low",
+    "complementarity": "Very High"
+  },
+  "dot4-16": {
+    "title": "用户体验研究员",
+    "exposure": "58%",
+    "risk": "Medium-Low",
+    "complementarity": "Very High"
+  },
+  "dot4-17": {
+    "title": "绿色能源顾问",
+    "exposure": "55%",
+    "risk": "Low",
+    "complementarity": "Very High"
+  },
+  "dot4-18": {
+    "title": "人机协作设计师",
+    "exposure": "50%",
+    "risk": "Low",
+    "complementarity": "Very High"
+  },
+  "dot5-1": {
+    "title": "星际殖民规划师",
+    "exposure": "98%",
+    "risk": "High",
+    "complementarity": "Very High"
+  },
+  "dot5-2": {
+    "title": "量子安全专家",
+    "exposure": "95%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot5-3": {
+    "title": "永生技术研究员",
+    "exposure": "92%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot5-4": {
+    "title": "地球工程专家",
+    "exposure": "90%",
+    "risk": "High",
+    "complementarity": "Very High"
+  },
+  "dot5-5": {
+    "title": "意识上传工程师",
+    "exposure": "88%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot5-6": {
+    "title": "通用人工智能研究员",
+    "exposure": "85%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot5-7": {
+    "title": "生物黑客",
+    "exposure": "82%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot5-8": {
+    "title": "宇宙资源开采专家",
+    "exposure": "80%",
+    "risk": "High",
+    "complementarity": "High"
+  },
+  "dot5-9": {
+    "title": "时间管理顾问",
+    "exposure": "78%",
+    "risk": "High",
+    "complementarity": "Very High"
+  },
+  "dot5-10": {
+    "title": "超级智能监控员",
+    "exposure": "75%",
+    "risk": "High",
+    "complementarity": "Very High"
+  },
+  "dot5-11": {
+    "title": "外星语言学家",
+    "exposure": "72%",
+    "risk": "Medium-High",
+    "complementarity": "Very High"
+  },
+  "dot5-12": {
+    "title": "元宇宙法律专家",
+    "exposure": "70%",
+    "risk": "Medium",
+    "complementarity": "Very High"
+  },
+  "dot5-13": {
+    "title": "数字身份设计师",
+    "exposure": "68%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot5-14": {
+    "title": "记忆工程师",
+    "exposure": "65%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot5-15": {
+    "title": "情感计算专家",
+    "exposure": "63%",
+    "risk": "Medium",
+    "complementarity": "High"
+  },
+  "dot5-16": {
+    "title": "可持续材料科学家",
+    "exposure": "60%",
+    "risk": "Medium-Low",
+    "complementarity": "Very High"
+  },
+  "dot5-17": {
+    "title": "跨维度工程师",
+    "exposure": "58%",
+    "risk": "Medium-Low",
+    "complementarity": "High"
+  },
+  "dot5-18": {
+    "title": "人类增强顾问",
+    "exposure": "55%",
+    "risk": "Low",
+    "complementarity": "Very High"
+  }
+}

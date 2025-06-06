@@ -439,8 +439,11 @@ body {
 .year-2020-dots .dot1-18 { top: 90%; left: 40%; }/*Call*/
 
 /* 2030 */
-.year-2030-dots .dot {
-    position: absolute;
+.year-2030-dots {
+    position: relative;
+}
+.year-2030-dots .img-container {
+    position: unset;
 }
 
 .year-2030-dots .dot2-1 { top: 85%; left: 25%; }
@@ -456,83 +459,92 @@ body {
 .year-2030-dots .dot2-11 { top: -8%; left: 32%; }
 .year-2030-dots .dot2-12 { top: 48%; left: 5%;  }
 .year-2030-dots .dot2-13 { top: 130%; left: 48%; }
-.year-2030-dots .dot2-14 { top: 50%; left: 78%; }
-.year-2030-dots .dot2-15 { top: 42%; left: 37%; }
-.year-2030-dots .dot2-16 { top: 70%; left: 22%; }
-.year-2030-dots .dot2-17 { top: 33%; left: 55%; }
-.year-2030-dots .dot2-18 { top: 62%; left: 38%; }
+.year-2030-dots .dot2-14 { top: -8%; left: 78%;}
+.year-2030-dots .dot2-15 { top: 56%; left: 33%;  }
+.year-2030-dots .dot2-16 { top: 33%; left: 83%; }
+.year-2030-dots .dot2-17 { top: 25%; left: 60%; }
+.year-2030-dots .dot2-18 { top: 53%; left: 68%; }
 
 /* 2040 */
-.year-2040-dots .dot {
-    position: absolute;
+.year-2040-dots {
+    position: relative;
+}
+.year-2040-dots .img-container {
+    position: unset;
 }
 
-.year-2040-dots .dot3-1 { top: 15%; left: 20%; }
-.year-2040-dots .dot3-2 { top: 25%; left: 70%; }
-.year-2040-dots .dot3-3 { top: 40%; left: 10%; }
-.year-2040-dots .dot3-4 { top: 50%; left: 65%; }
-.year-2040-dots .dot3-5 { top: 65%; left: 25%; }
-.year-2040-dots .dot3-6 { top: 75%; left: 75%; }
-.year-2040-dots .dot3-7 { top: 85%; left: 45%; }
-.year-2040-dots .dot3-8 { top: 30%; left: 85%; }
-.year-2040-dots .dot3-9 { top: 30%; left: 40%; }
-.year-2040-dots .dot3-10 { top: 10%; left: 50%; }
-.year-2040-dots .dot3-11 { top: 20%; left: 30%; }
-.year-2040-dots .dot3-12 { top: 45%; left: 55%; }
-.year-2040-dots .dot3-13 { top: 55%; left: 35%; }
-.year-2040-dots .dot3-14 { top: 70%; left: 50%; }
-.year-2040-dots .dot3-15 { top: 80%; left: 15%; }
-.year-2040-dots .dot3-16 { top: 20%; left: 85%; }
-.year-2040-dots .dot3-17 { top: 40%; left: 80%; }
-.year-2040-dots .dot3-18 { top: 60%; left: 85%; }
+.year-2040-dots .dot3-1 { top: 85%; left: 25%; }
+.year-2040-dots .dot3-2 { top: 55%; left: 45%; }
+.year-2040-dots .dot3-3 { top: 90%; left: 40%; }
+.year-2040-dots .dot3-4 { top: 45%; left: 23%;}
+.year-2040-dots .dot3-5 { top: 2%; left: 55%; }
+.year-2040-dots .dot3-6 { top: 61%; left: 55%; }
+.year-2040-dots .dot3-7 { top: 36%; left: 40%; }
+.year-2040-dots .dot3-8 { top: 90%; left: 85%; }
+.year-2040-dots .dot3-9 { top: -20%; left: 52%; }
+.year-2040-dots .dot3-10 { top: 90%; left: 62%; }
+.year-2040-dots .dot3-11 { top: -8%; left: 32%; }
+.year-2040-dots .dot3-12 { top: 48%; left: 5%; }
+.year-2040-dots .dot3-13 { top: 130%; left: 48%; }
+.year-2040-dots .dot3-14 { top: -8%; left: 78%; }
+.year-2040-dots .dot3-15 { top: 56%; left: 33%; } 
+.year-2040-dots .dot3-16 { top: 33%; left: 83%; }
+.year-2040-dots .dot3-17 { top: 25%; left: 60%; }
+.year-2040-dots .dot3-18 { top: 53%; left: 68%; }
 
 /* 2050 */
-.year-2050-dots .dot {
-    position: absolute;
+.year-2050-dots {
+    position: relative;
+}
+.year-2050-dots .img-container {
+    position: unset;
 }
 
-.year-2050-dots .dot4-1 { top: 12%; left: 18%; }
-.year-2050-dots .dot4-2 { top: 28%; left: 72%; }
-.year-2050-dots .dot4-3 { top: 35%; left: 10%; }
-.year-2050-dots .dot4-4 { top: 48%; left: 68%; }
-.year-2050-dots .dot4-5 { top: 60%; left: 22%; }
-.year-2050-dots .dot4-6 { top: 75%; left: 78%; }
-.year-2050-dots .dot4-7 { top: 82%; left: 40%; }
-.year-2050-dots .dot4-8 { top: 22%; left: 85%; }
-.year-2050-dots .dot4-9 { top: 38%; left: 55%; }
-.year-2050-dots .dot4-10 { top: 55%; left: 30%; }
-.year-2050-dots .dot4-11 { top: 30%; left: 45%; }
-.year-2050-dots .dot4-12 { top: 15%; left: 50%; }
-.year-2050-dots .dot4-13 { top: 40%; left: 35%; }
-.year-2050-dots .dot4-14 { top: 58%; left: 52%; }
-.year-2050-dots .dot4-15 { top: 70%; left: 15%; }
-.year-2050-dots .dot4-16 { top: 85%; left: 65%; }
-.year-2050-dots .dot4-17 { top: 25%; left: 80%; }
-.year-2050-dots .dot4-18 { top: 45%; left: 85%; }
+.year-2050-dots .dot4-1 { top: 85%; left: 25%; }
+.year-2050-dots .dot4-2 { top: 55%; left: 45%; }
+.year-2050-dots .dot4-3 { top: 90%; left: 40%; }
+.year-2050-dots .dot4-4 { top: 45%; left: 23%; }
+.year-2050-dots .dot4-5 { top: 2%; left: 55%; }
+.year-2050-dots .dot4-6 { top: 61%; left: 55%; }
+.year-2050-dots .dot4-7 { top: 36%; left: 40%; }
+.year-2050-dots .dot4-8 { top: 90%; left: 85%; }
+.year-2050-dots .dot4-9 { top: -20%; left: 52%; }
+.year-2050-dots .dot4-10 { top: 90%; left: 62%; }
+.year-2050-dots .dot4-11 { top: -8%; left: 32%; }
+.year-2050-dots .dot4-12 { top: 48%; left: 5%;  }
+.year-2050-dots .dot4-13 { top: 130%; left: 48%;} 
+.year-2050-dots .dot4-14 { top: -8%; left: 78%; }
+.year-2050-dots .dot4-15 { top: 56%; left: 33%; }
+.year-2050-dots .dot4-16 { top: 33%; left: 83%; }
+.year-2050-dots .dot4-17 { top: 25%; left: 60%; }
+.year-2050-dots .dot4-18 { top: 53%; left: 68%; }
 
 /* 2060 */
-.year-2060-dots .dot {
-    position: absolute;
+.year-2060-dots {
+    position: relative;
+}
+.year-2060-dots .img-container {
+    position: unset;
 }
 
-.year-2060-dots .dot5-1 { top: 10%; left: 15%; }
-.year-2060-dots .dot5-2 { top: 25%; left: 75%; }
-.year-2060-dots .dot5-3 { top: 30%; left: 10%; }
-.year-2060-dots .dot5-4 { top: 45%; left: 70%; }
-.year-2060-dots .dot5-5 { top: 55%; left: 20%; }
-.year-2060-dots .dot5-6 { top: 70%; left: 80%; }
-.year-2060-dots .dot5-7 { top: 80%; left: 35%; }
-.year-2060-dots .dot5-8 { top: 20%; left: 85%; }
-.year-2060-dots .dot5-9 { top: 35%; left: 50%; }
-.year-2060-dots .dot5-10 { top: 50%; left: 30%; }
-.year-2060-dots .dot5-11 { top: 65%; left: 60%; }
-.year-2060-dots .dot5-12 { top: 35%; left: 45%; }
-.year-2060-dots .dot5-13 { top: 18%; left: 55%; }
-.year-2060-dots .dot5-14 { top: 42%; left: 30%; }
-.year-2060-dots .dot5-15 { top: 60%; left: 55%; }
-.year-2060-dots .dot5-16 { top: 85%; left: 20%; }
-.year-2060-dots .dot5-17 { top: 28%; left: 82%; }
-.year-2060-dots .dot5-18 { top: 48%; left: 88%; }
+.year-2060-dots .dot5-1 { top: 85%; left: 25%; }
+.year-2060-dots .dot5-2 { top: 55%; left: 45%; }
+.year-2060-dots .dot5-3 { top: 90%; left: 40%;  }
+.year-2060-dots .dot5-4 { top: 45%; left: 23%;}
+.year-2060-dots .dot5-5 { top: 2%; left: 55%; }
+.year-2060-dots .dot5-6 { top: 61%; left: 55%; }
+.year-2060-dots .dot5-7 { top: 36%; left: 40%; }
+.year-2060-dots .dot5-8 { top: 90%; left: 85%;  }
+.year-2060-dots .dot5-9 { top: -20%; left: 52%; }
+.year-2060-dots .dot5-10 { top: 90%; left: 62%; }
+.year-2060-dots .dot5-11 { top: -8%; left: 32%; }
+.year-2060-dots .dot5-12 { top: 48%; left: 5%;  }
+.year-2060-dots .dot5-13 { top: 130%; left: 48%; }
+.year-2060-dots .dot5-14 { top: -8%; left: 78%;}
+.year-2060-dots .dot5-15 { top: 56%; left: 33%; }
+.year-2060-dots .dot5-16 { top: 33%; left: 83%; }
+.year-2060-dots .dot5-17 { top: 25%; left: 60%; }
+.year-2060-dots .dot5-18 { top: 53%; left: 68%; }
 
 /* 浮窗 */
 .img-container {
@@ -743,7 +755,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    padding-left: 50%; 
+    padding-left: 30%; 
     width: 100%;
     padding-top: 300px;
 }
